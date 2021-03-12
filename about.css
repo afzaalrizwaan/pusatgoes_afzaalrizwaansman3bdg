@@ -1,0 +1,84 @@
+* {
+	padding:0;
+	margin:0;
+	font-family: 'Montserrat', sans-serif;	
+;
+
+}
+a{
+	color: inherit;
+}
+.medsos {
+	/* padding: 5px 0; */
+
+	background-color: #cfcfcf
+}
+
+.medsos ul li {
+	
+	color: #eee
+	margin-right: 1px;
+
+}
+.container {
+	width: 100%;
+	/* margin: 7 auto; */
+	
+}
+.container:after {
+	content:'';
+	display: block;
+	/* clear: both; */
+
+
+
+}
+.header {
+	
+	float: right;
+}
+.banner {
+
+
+}
+
+
+
+}
+.class {
+	text-align: center;
+	padding: 20px 0;
+	color: green;
+}	
+
+.h1,h2,h3,h4,h5,h6{
+	text-align: center;
+	font-size: 50px;
+}
+
+
+
+.testestes{
+	text-align:center;
+	font-size: 50px;
+}
+
+.konteiner{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.wave{
+	bottom:0;
+}
+
+.testing{
+	background-color: #ABB2B9;
+	text-align:center
+}
+
+.testingg{
+	background-color: #ABB2B9;
+	text-align:center
+}
